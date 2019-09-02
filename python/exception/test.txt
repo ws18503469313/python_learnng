@@ -1,0 +1,1 @@
+A wiki is where you can store all the details about your project. This can include why you've created it, its principles, how to use it, and so on.
